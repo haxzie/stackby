@@ -1,4 +1,4 @@
-# StackBy [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
+# StackBy
 Python CLI to stack files in a directory based on type, date and extension.  
 StackBy uses [Google's Fire module](https://github.com/google/python-fire) to make the command line interface. Refer their docs for mode info.
 
